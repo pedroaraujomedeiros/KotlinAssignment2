@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">Rick and Morty</string>
+    <string name="title">Rick and Morty</string>
+
+    <string name="title_about">About Rick and Morty</string>
+    <string name="title_rules">Rules Rick and Morty</string>
+    <string name="title_game">Quiz Time</string>
+    <string name="title_game_over">Game Over</string>
+
+    <string name="about_text">The RIck and Morty will help remind you of important concepts you have learned by watching Rick and Morty.\n\nConsider modifying the questions and graphics to make this game your own!</string>
+    <string name="rules_text">Select the answer from the options given. Once you answer a question you can\'t change your answer. Once you have answered all the questions you will go to a page that tells you your score.\n\nYou can teturn to the title screen using up or back from within the game screen, and this will also end your game.</string>
+
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="rules">Rules</string>
+    <string name="about">About</string>
+
+    <string name="score_format">Your Score: %d/%d</string>
+
+    <string name="question_1">The Rick &amp; Morty That The Show Follows Are Originally From Dimension C-173</string>
+    <string name="question_2">Jerry\'s Station Wagon Is Based On The Car From National Lampoon\'s Vacation?</string>
+    <string name="question_3">Rick &amp; Morty Have Appeared In The Opening Title Screen Of The Simpsons?</string>
+    <string name="question_4">Jaguar From \'Pickle Rick\' Had His Own Spin Off Show With Adult Swim?</string>
+    <string name="question_5">Two Brothers\' Is The First Show Rick &amp; Morty Watch On Inter-Dimensional Cable?</string>
+    <string name="question_6">According To Dan Harmon, A Schmeckle Is Worth $148?</string>
+    <string name="question_7">The Bloomflark Is The Universal Currency For The Galactic Federation?</string>
+    <string name="question_8">When Bird-Person Is \'Reborn\' He Is Dubbed Phoenix-Bird?</string>
+    <string name="question_9">Doctor Neon Bloom Runs Anatomy Park?</string>
+    <string name="question_10">When Snuffles Is Able To Talk, He Changes His Name To Snowball?</string>
+    <string name="question_11">"Wubba Lubba Dub Dub" Means \'Let\'s Party\'?</string>
+    <string name="question_12">Leading Up To The First Episode, Rick Had Left Beth And The Family For 10 Year</string>
+    <string name="question_13">In \'Total Rickall\', The Only Character That Isn\'t A Parasite Is Pencilvester?</string>
+    <string name="question_14">Tammy Killed Bird-Person On Their Wedding Day?</string>
+    <string name="question_15">When Being Scammed By The Zigereons, Rick\'s Safe Code Is \'1-3-5-3\'?</string>
+    <string name="question_16">Ice-T\'s Real Name On Alphabetrium Was H2O-T?</string>
+    <string name="question_17">When Jerry &amp; Beth Split Up, Jerry Enters A Relationship With A Krootabulan?</string>
+    <string name="question_18">The Episode \'Something Ricked This Way\' Is A Parody Of An Edgar Allen Poe Poem</string>
+    <string name="question_19">Rick\'s Hivemind Ex-Lover Is Called Purity?</string>
+    <string name="question_20">The Conjoint Twin That Simultaneously Host The News &amp;v A Cooking Show Are Calle Michael &amp; Pichael?</string>
+    <string name="gameImageContentDescription">game image</string>
+    <string name="falseString">FALSE</string>
+    <string name="trueString">TRUE</string>
+    <string name="previous_question">Previous Question</string>
+    <string name="next_question">Next Question</string>
+    <string name="wrong_image">wrong image</string>
+    <string name="right_image">right image</string>
+
+</resources>
